@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	
+	xmlns:georss="http://www.georss.org/georss"
+	xmlns:geo="http://www.w3.org/2003/01/geo/wgs84_pos#"
+	>
+
+<channel>
+	<title>Shoes &#8211; HaakenWP</title>
+	<atom:link href="http://localhost/myproject/wordpress/product-category/shoes/feed/" rel="self" type="application/rss+xml" />
+	<link>https://ttphuem.github.io/mywordpress</link>
+	<description>Một trang web mới sử dụng WordPress</description>
+	<lastBuildDate>Sun, 11 Sep 2022 17:58:30 +0000</lastBuildDate>
+	<language>vi</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.0.2</generator>
+	<item>
+		<title>FAIR RUN</title>
+		<link>https://ttphuem.github.io/mywordpress/product/fair-run/</link>
+					<comments>https://ttphuem.github.io/mywordpress/product/fair-run/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 10:22:05 +0000</pubDate>
+				<guid isPermaLink="false">https://ttphuem.github.io/mywordpress/?post_type=product&#038;p=1121</guid>
+
+					<description><![CDATA[Alienum pha edrum torquatos nec eu, vis detra xit per iculis ex, nihil ex petendis in mei. Mei an per icula euripidis, hinc partem ei est eos ei nis.]]></description>
+										<content:encoded><![CDATA[<p>Alienum pha edrum torquatos nec eu, vis detra xit per iculis ex, nihil ex petendis in mei. Mei an per icula euripidis, hinc partem ei est eos ei nis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ttphuem.github.io/mywordpress/product/fair-run/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>ILLUTION</title>
+		<link>https://ttphuem.github.io/mywordpress/product/illution/</link>
+					<comments>https://ttphuem.github.io/mywordpress/product/illution/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 10:20:45 +0000</pubDate>
+				<guid isPermaLink="false">https://ttphuem.github.io/mywordpress/?post_type=product&#038;p=1117</guid>
+
+					<description><![CDATA[Alienum pha edrum torquatos nec eu, vis detra xit per iculis ex, nihil ex petendis in mei. Mei an per icula euripidis, hinc partem ei est eos ei nis.]]></description>
+										<content:encoded><![CDATA[<p>Alienum pha edrum torquatos nec eu, vis detra xit per iculis ex, nihil ex petendis in mei. Mei an per icula euripidis, hinc partem ei est eos ei nis.</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ttphuem.github.io/mywordpress/product/illution/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>CRIMSON</title>
+		<link>https://ttphuem.github.io/mywordpress/product/crimson/</link>
+					<comments>https://ttphuem.github.io/mywordpress/product/crimson/#respond</comments>
+		
+		<dc:creator><![CDATA[tranthanhphuem]]></dc:creator>
+		<pubDate>Sun, 11 Sep 2022 10:18:19 +0000</pubDate>
+				<guid isPermaLink="false">https://ttphuem.github.io/mywordpress/?post_type=product&#038;p=1116</guid>
+
+					<description><![CDATA[<span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Pha edrum của một người nước ngoài không phải là xoắn cũng không phải là bóng đá, lực lượng bắn xuống thông qua các mũi tên từ, không có gì từ tìm kiếm trong tôi. </span><span style="vertical-align: inherit;">Của tôi hoặc thông qua mũi tên của Euripides, do đó nó là một phần của anh ta đối với anh ta.</span></span>]]></description>
+										<content:encoded><![CDATA[<p><span style="vertical-align: inherit;"><span style="vertical-align: inherit;">Pha edrum của một người nước ngoài không phải là xoắn cũng không phải là bóng đá, lực lượng bắn xuống thông qua các mũi tên từ, không có gì từ tìm kiếm trong tôi. </span><span style="vertical-align: inherit;">Của tôi hoặc thông qua mũi tên của Euripides, do đó nó là một phần của anh ta đối với anh ta.</span></span></p>
+]]></content:encoded>
+					
+					<wfw:commentRss>https://ttphuem.github.io/mywordpress/product/crimson/feed/</wfw:commentRss>
+			<slash:comments>0</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
